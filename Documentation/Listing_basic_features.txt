@@ -1,0 +1,12 @@
+Features de bases pour projet DVDivix
+
+- Ajouter un DVD dans la base avec son lieu de stockage 
+ ==> définir un lieu de stockage (exemple : étagère chambre ou place dans l'étagère , ...)
+- Lister tous les divix depuis plusieurs sources de stockage et les enregister en base de données
+ ==> parcourir tous les fichiers d'un serveur et détecter tous les fichiers vidéos (petite story)
+ ==> avoir la possibilité d'ajouter différentes sources de stockage 
+ ==> aggréger les deux stories pour pouvoir lister tous les divix disponibles
+- Faire une recherche d'un titre et voir si c'est en DVD ou Divix
+- Indication pour savoir si on a vu un film / divix 
+- Avoir la possibilité de noter un film / divix 
+- Définir un code label/couleur pour identifier les films/divix qu'on a vu, aimé pas aimé  ... et pouvoir filtrer par label
