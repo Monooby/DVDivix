@@ -10,3 +10,8 @@ Features de bases pour projet DVDivix
 - Indication pour savoir si on a vu un film / divix 
 - Avoir la possibilité de noter un film / divix 
 - Définir un code label/couleur pour identifier les films/divix qu'on a vu, aimé pas aimé  ... et pouvoir filtrer par label
+- Login / logout
+- profil guest avec juste les droits pour lister les films / divix
+- profil utilisateur avec les droits d'ajout / note / ...
+
+
